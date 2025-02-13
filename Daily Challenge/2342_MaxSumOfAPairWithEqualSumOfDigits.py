@@ -1,6 +1,6 @@
 '''
 Approach:
-- Compute the sum for each number in nums.
+- Compute the digit sum for each number in nums.
 - Group numbers that have the same digit sum using a hash map.
 - Use a max heap to efficiently retrieve the two largest numbers in each group.
 - Return the maximum sum of such a pair, or -1 if no valid pair exists.
