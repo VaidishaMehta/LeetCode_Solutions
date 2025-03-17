@@ -11,3 +11,4 @@
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/) | [Python](https://github.com/VaidishaMehta/LeetCode/blob/main/Daily%20Challenge/2357_MakeArrayZerobBySubtractingEqualAmounts.py) | Easy |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Python](https://github.com/VaidishaMehta/LeetCode/blob/main/Daily%20Challenge/973_KClosestPointsToOrigin.py) | Medium |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/description/) | [Python](https://github.com/VaidishaMehta/LeetCode/blob/main/Daily%20Challenge/289_GameOfLife.py) | Medium |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description) | [Python](https://github.com/VaidishaMehta/LeetCode_Solutions/blob/main/Daily%20Challenge/2206_Divide_Array_Into_Equal_Pairs.py) | Medium |
